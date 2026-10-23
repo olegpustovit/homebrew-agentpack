@@ -1,0 +1,6 @@
+homebrew-agentpack: checked-in package definitions
+
+Formula/agentpack.rb
+  version: 0.1.0.tar.gz
+  description: Pin GitHub-hosted skills and plugin directories for agent harnesses
+
